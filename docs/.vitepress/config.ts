@@ -1,14 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  // base: '/blogs/',
   title: '闹够了没',
   description: "It's never too late to learn. It's the best time to start.",
   head: [
-    // ['link', { rel: 'icon', href: '/blogs/favicon.ico' }],
-    // ['link', { rel: 'apple-touch-icon', href: '/blogs/favicon.ico' }],
-    // ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: '/blogs/favicon.ico' }],
-    // ['link', { rel: 'mainfest', href: '/blogs/mainfest.json' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.ico' }],
     ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico' }],
