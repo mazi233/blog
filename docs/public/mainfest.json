@@ -1,0 +1,20 @@
+{
+  "name": "闹够了没",
+  "short_name": "闹够了没",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "闹够了没's blog",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./img/favicon.ico",
+      "sizes": "144x144"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
