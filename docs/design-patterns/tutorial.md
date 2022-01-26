@@ -1,8 +1,3 @@
----
-title: 设计模式
-permalink: /design-patterns/2020/08/10/DesignPatterns
----
-
 # 设计模式
 
 ## 设计模式的类型

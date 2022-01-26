@@ -1,7 +1,3 @@
----
-title: Hash类型
-permalink: /redis/2019/08/22/Hash类型
----
 # Hash类型操作 (kv对,k不允许重复)
 ## hset (添加)
 > hset hash key value

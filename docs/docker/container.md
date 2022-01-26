@@ -1,9 +1,3 @@
----
-title: Docker容器
-permalink: /docker/2019/11/24/docker-container
-
----
-
 # Docker容器
 容器是镜像的一个运行实例。不同的是镜像是静态的只读文件，而容器带有运行时需要的可写文件层，同时，容器中的应用进程属于运行状态
 

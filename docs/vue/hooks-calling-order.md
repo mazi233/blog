@@ -1,7 +1,3 @@
----
-title: hook执行顺序
-permalink: /vue/2020/08/08/hook执行顺序
----
 # hook执行顺序
 
 ## 组件hook 

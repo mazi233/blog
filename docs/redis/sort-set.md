@@ -1,7 +1,3 @@
----
-title: Sort Set类型
-permalink: /redis/2019/08/22/Sort Set类型
----
 # Sort Set类型操作 (ks对,k不允许重复,s相同比较k,还有一个隐藏rank属性[0,1,2...])
 ## zadd (添加)
 > zadd zset score key

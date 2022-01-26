@@ -1,7 +1,3 @@
----
-title: Docker起步
-permalink: /docker/2019/11/22/docker-start
----
 # Docker起步
 ```bash
 docker pull rep[:tag]

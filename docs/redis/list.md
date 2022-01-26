@@ -1,7 +1,3 @@
----
-title: List类型
-permalink: /redis/2019/08/22/List类型
----
 # List类型操作 (可重复的数据)
 ## lpush (左推入)
 > lpush list value

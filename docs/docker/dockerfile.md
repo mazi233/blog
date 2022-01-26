@@ -1,8 +1,3 @@
----
-title: 使用Dockerfile创建镜像
-permalink: /docker/2019/11/27/dockerfile
----
-
 # 使用Dockerfile创建镜像
 Dockerfile是一个文本格式的配置文件，用户可以使用Dockerfile来创建自定义的镜像
 

@@ -1,9 +1,3 @@
----
-title: Docker数据管理
-permalink: /docker/2019/11/26/docker-data-manage
-
----
-
 # Docker数据管理
 生产环境下使用docker，往往需要对数据进行持久化，或者需要在多个容器之间进行数据共享，这必然涉及容器的数据管理操作
 

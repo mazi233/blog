@@ -1,7 +1,3 @@
----
-title: String类型
-permalink: /redis/2019/08/22/String类型
----
 # String类型操作
 ## set (添加)
 > set key value
